@@ -21,6 +21,7 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-Java%20Backend-ED8B00?style=flat-square&logo=openjdk" />
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/Differential-OT%2FIT%20Integration-2563EB?style=flat-square" />
 </p>
 
 ---
@@ -29,11 +30,11 @@
 
 I'm a Software Development student focused on backend engineering, system integration and practical software architecture.
 
-My current path is centered on the **Java ecosystem**, especially backend applications with **Spring Boot**, APIs, persistence, business rules and maintainable architecture.
+My current path is centered on the **Java ecosystem**, especially backend applications with **Spring Boot**, REST APIs, persistence, business rules and maintainable architecture.
 
 I also explore **Angular** for frontend development and keep **C#/.NET**, **OT/IT integration** and industrial systems as technical differentials, connecting software engineering with Industry 4.0 scenarios.
 
-I care about building software that is not only functional, but also understandable, maintainable and ready to evolve.
+My goal is to build software that is not only functional, but also understandable, maintainable and ready to evolve.
 
 ---
 
@@ -51,7 +52,9 @@ I care about building software that is not only functional, but also understanda
 
 ---
 
-## Main stack
+## Tech stack
+
+### Main path
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -60,7 +63,7 @@ I care about building software that is not only functional, but also understanda
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-## Backend, data and infrastructure
+### Backend, data and infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -70,7 +73,7 @@ I care about building software that is not only functional, but also understanda
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-## Technical differentials
+### Technical differentials
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -87,7 +90,7 @@ I care about building software that is not only functional, but also understanda
 
 Synka Studio is an MVP project focused on building a viable full-stack application using the **Java ecosystem** for the backend and **Angular** for the frontend.
 
-The goal is to evolve it incrementally as a product-oriented application, with attention to domain modeling, maintainability and real-world usability.
+The goal is to evolve it incrementally as a product-oriented application, with attention to domain modeling, maintainable architecture and real-world usability.
 
 **Planned stack**
 
@@ -149,16 +152,11 @@ My focus is to develop projects that show:
 ## Activity and commit rhythm
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yatoc137&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=Yatoc137&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yatoc137&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatoc137&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatoc137&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatoc137&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ---
